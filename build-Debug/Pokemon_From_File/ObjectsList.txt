@@ -1,0 +1,1 @@
+../build-Debug/Pokemon_From_File/main.cpp.o ../build-Debug/Pokemon_From_File/Pokedex.cpp.o ../build-Debug/Pokemon_From_File/Pokemon.cpp.o   

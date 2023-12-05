@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pokemon" Database="" Version="10000">
+  <Project Name="Pokemon_From_File" Path="Pokemon_From_File/Pokemon_From_File.project" Active="Yes"/>
+  <Project Name="tests" Path="tests/tests.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Pokemon_From_File" ConfigName="Debug"/>
+      <Project Name="tests" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Pokemon_From_File" ConfigName="Release"/>
+      <Project Name="tests" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

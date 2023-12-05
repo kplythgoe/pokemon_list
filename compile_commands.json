@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\tests\\main.cpp",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\tests",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\tests\\main.cpp\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\tests\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\main.cpp",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\main.cpp\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.cpp",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.cpp\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.h",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.h\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokedex.h\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.h",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.h\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.h\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.cpp",
+  "directory": "C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File",
+  "command": "C:/mingw64/bin/g++.exe -c \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.cpp\" -o \"C:\\Users\\kiera\\OneDrive\\Desktop\\CPP Projects\\Pokemon\\Pokemon_From_File\\Pokemon.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

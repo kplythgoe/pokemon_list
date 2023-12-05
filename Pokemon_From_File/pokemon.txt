@@ -1,0 +1,3 @@
+Charmander, fire, water, tackle, ember
+Bulbasaur, grass, fire, tackle, vinewhip
+Squirtle, water, grass, tackle, water gun
